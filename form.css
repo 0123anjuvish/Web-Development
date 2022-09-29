@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(233, 139, 24);
+}
+.h1{
+    text-align: center;
+    margin:auto;
+}
+.form{
+    justify-content: center;
+    justify-items: center;
+}
+#button{
+    border-radius: 3rem;
+    background-color: greenyellow;
+    text-align: center;
+    width: 50%;
+}
